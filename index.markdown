@@ -9,4 +9,4 @@ I’m a PhD student in the [Keiser](https://www.keiserlab.org/) and [Pollard](ht
 
 <img src="/photos/barn_photo.jpg" alt="drawing" style="width:500px;"/>
 
-You can reach me at lgunsalus _at_ keiserlab _dot_ org
+You can reach me at gunsalus.laura _at_ gene _dot_ com
